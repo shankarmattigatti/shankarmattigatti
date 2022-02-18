@@ -23,6 +23,6 @@ I'm Shankar, a passionate Software Engineer from India</p>
 
 <div align="center">
   <a href="https://github.com/shankarmattigatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shankarmattigatti&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmattigatti&layout=compact&langs_count=5&theme=gradient"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shankarmattigatti&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmattigatti&layout=compact&langs_count=5&theme=gradient"/>
 </div>
