@@ -8,6 +8,7 @@ I'm Shankar, a passionate Software Engineer from India</p>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -20,9 +21,3 @@ I'm Shankar, a passionate Software Engineer from India</p>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"></code>
 
 <br />
-
-<div align="center">
-  <a href="https://github.com/shankarmattigatti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=shankarmattigatti&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarmattigatti&layout=compact&langs_count=5&theme=gradient"/>
-</div>
