@@ -16,9 +16,6 @@ I'm Shankar, a passionate Software Engineer from India</p>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
 
 <br />
